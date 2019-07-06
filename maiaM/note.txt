@@ -1,1 +1,0 @@
-All the self study works need to go under this maiaM folder to avoid conflict with the upstream repository from learn-co-students repository.
